@@ -49,6 +49,11 @@ I self-host and maintain a full homelab setup with production-grade services, mo
 A powerful and modular Discord bot built for Warframe enthusiasts.
 qowedframe provides real-time price tracking, historical trend analysis, interactive slash commands, and customizable price alerts — all backed by a robust backend with full Warframe Market API integration, PostgresQL via Prisma ORM, and a RESTful API for external service access.
 
+### Roombooking for Companies  
+A professional room and resource booking app built with the T4 Stack.  
+Integrates NextAuth with Azure AD for secure, seamless authentication.  
+Simplifies managing rooms and desks with real-time availability and notifications.
+
 ### Encrypted Electron Messenger  
 A custom-built desktop messenger app using Electron, focused on end-to-end encryption and privacy.  
 Designed for secure, seamless communication with modern UX, featuring encrypted messaging, offline support, and cross-platform compatibility.
