@@ -58,8 +58,3 @@ An all-in-one employee tool designed to streamline daily office workflows: enabl
 
 ### Home Automation  
 Smart home setups and custom integrations using Home Assistant and MQTT.
-
-## Contact
-
-📮 fahrettin.borsten@gmail.com  
-🌐 [github.com/godstepx](https://github.com/godstepx)  
