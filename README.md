@@ -11,7 +11,7 @@
 </div>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/godstepx" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/fahrettin-borsten-222920347" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"> <a href="mailto:fahrettin.borsten@gmail.com" target="_blank">
+<p align="left"><a href="https://github.com/godstepx" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:fahrettin.borsten@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white" height="28" style="margin-right: 4px"></a> </p>
 
 <h3 align="left">🚀 I create and maintain modern web applications, desktop apps, automation bots, and IoT integrations that generate real value.  
