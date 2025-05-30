@@ -61,9 +61,11 @@ Designed for secure, seamless communication with modern UX, featuring encrypted 
 An all-in-one employee tool designed to streamline daily office workflows: enables secure clock-in/out, seamless door access control via smart integration, and features an intuitive chat-based meal ordering system — boosting productivity and enhancing the workplace experience.
 
 ### Secure Smart Office Access System
-A fully self-developed access control system for office spaces, with a focus on security, offline capability, and web-based administration.
 
+A fully self-developed access control system for office spaces, with a focus on security, offline capability, and web-based administration.
 The system combines a Python script using OpenCV2 and the face-recognition library for fast and reliable facial identification. It includes advanced spoofing detection (e.g., photos, videos) and supports time-based access rules. The corresponding frontend and backend are built with Next.js, providing an admin interface for managing users, scheduling access windows, and generating guest QR codes. All access events are logged and can be reviewed via a dashboard.
+
+Guest QR codes are Apple Wallet and Google Wallet compatible and can be used via NFC for seamless and contactless check-in at the door.
 
 ### Home Automation  
 Smart home setups and custom integrations using Home Assistant and MQTT.
