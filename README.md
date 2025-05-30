@@ -19,7 +19,6 @@ My expertise spans fullstack web development, React Native apps, Electron deskto
 
 **<h3 align="left">Currently</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a secure facial recognition camera system for smart office access control.**
 - 🌱 I'm currently learning: **📚 React-Native**
 - 🌱 I want to learn: <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes" style="vertical-align: bottom;" />
 
@@ -60,6 +59,11 @@ Designed for secure, seamless communication with modern UX, featuring encrypted 
 
 ### Office Mobile-App
 An all-in-one employee tool designed to streamline daily office workflows: enables secure clock-in/out, seamless door access control via smart integration, and features an intuitive chat-based meal ordering system — boosting productivity and enhancing the workplace experience.
+
+### Secure Smart Office Access System
+A fully self-developed access control system for office spaces, with a focus on security, offline capability, and web-based administration.
+
+The system combines a Python script using OpenCV2 and the face-recognition library for fast and reliable facial identification. It includes advanced spoofing detection (e.g., photos, videos) and supports time-based access rules. The corresponding frontend and backend are built with Next.js, providing an admin interface for managing users, scheduling access windows, and generating guest QR codes. All access events are logged and can be reviewed via a dashboard.
 
 ### Home Automation  
 Smart home setups and custom integrations using Home Assistant and MQTT.
