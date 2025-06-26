@@ -44,27 +44,26 @@ I self-host and maintain a full homelab setup with production-grade services, mo
 ## Private Projects
 
 ### qowedframe  
-A powerful and modular Discord bot built for Warframe enthusiasts.
-qowedframe provides real-time price tracking, historical trend analysis, interactive slash commands, and customizable price alerts — all backed by a robust backend with full Warframe Market API integration, PostgresQL via Prisma ORM, and a RESTful API for external service access.
+A modular Discord bot made for Warframe fans.
+It shows real-time prices, trends over time, lets you use slash commands, and even set up price alerts. Powered by the Warframe Market API, a PostgreSQL database (via Prisma), and a simple REST API for outside access.
 
 ### Roombooking for Companies  
-A professional room and resource booking app built with the T4 Stack.  
-Integrates NextAuth with Azure AD for secure, seamless authentication.  
-Simplifies managing rooms and desks with real-time availability and notifications.
+A room and desk booking app built with the T4 Stack.
+It uses Azure AD for login through NextAuth, and makes it easy to see what’s available and get notified about bookings in real time.
 
 ### Encrypted Electron Messenger  
-A custom-built desktop messenger app using Electron, focused on end-to-end encryption and privacy.  
-Designed for secure, seamless communication with modern UX, featuring encrypted messaging, offline support, and cross-platform compatibility.
+A desktop chat app built with Electron, focused on privacy and end-to-end encryption.
+Works offline, runs on multiple platforms, and is designed for secure messaging with a clean and modern UI.
 
 ### Office Mobile-App
-An all-in-one employee tool designed to streamline daily office workflows: enables secure clock-in/out, seamless door access control via smart integration, and features an intuitive chat-based meal ordering system — boosting productivity and enhancing the workplace experience.
+A handy app for employees to make office life smoother.
+Lets you clock in and out, unlock doors with your phone, and even order lunch through a chat-style interface. Makes the daily routine a bit easier.
 
 ### Secure Smart Office Access System
 
-A fully self-developed access control system for office spaces, with a focus on security, offline capability, and web-based administration.
-The system combines a Python script using OpenCV2 and the face-recognition library for fast and reliable facial identification. It includes advanced spoofing detection (e.g., photos, videos) and supports time-based access rules. The corresponding frontend and backend are built with Next.js, providing an admin interface for managing users, scheduling access windows, and generating guest QR codes. All access events are logged and can be reviewed via a dashboard.
-
-Guest QR codes are Apple Wallet and Google Wallet compatible and can be used via NFC for seamless and contactless check-in at the door.
+A full DIY access system for offices – secure, works offline, and easy to manage via the web.
+Uses facial recognition (with OpenCV and the face-recognition library), detects photo/video spoofing, and lets you set custom time-based access rules.
+The admin panel (built with Next.js) lets you manage users, schedule access, and create guest QR codes – which even work with Apple/Google Wallet and NFC for smooth check-ins.
 
 ### Home Automation  
-Smart home setups and custom integrations using Home Assistant and MQTT.
+Messing around with smart home setups using Home Assistant and MQTT. Custom integrations here and there to make lights, sensors, and other devices do what I want.
