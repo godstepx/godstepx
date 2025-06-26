@@ -29,13 +29,10 @@ I self-host and maintain a full homelab setup with production-grade services, mo
 - 🐳 Dockerized everything – Containerized services for clean deployment & scaling  
 - 📊 Grafana + Prometheus – Full observability stack for system & service metrics  
 - 🌐 Nginx with Let's Encrypt – Reverse proxy + automated TLS certificates  
-- 🧱 UFW + basic system hardening – Firewall and security best practices  
 - 🏡 Home Assistant – Full smart home control and automation  
 - 🔁 Dynamic DNS – Remote access to internal services  
 - 🔒 Tailscale – Seamless secure mesh VPN across devices  
 - 🔑 OpenVPN – Fallback VPN access with fine-grained control  
-
-
 
  **<h3 align="left">Skills</h3>**
 
