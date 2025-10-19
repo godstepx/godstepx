@@ -65,9 +65,9 @@ I self-host and maintain a full homelab setup with production-grade services, mo
 ## Private Projects
 
 ### qowedframe  
-A modular Discord bot for Warframe fans.  
-Provides real-time prices, historical trends, slash commands, and price alerts.  
-Built with Warframe Market API, PostgreSQL (via Prisma), and a REST API for external access.
+A modular backend for Warframe market monitoring and alerts.
+Offers real-time pricing, historical trends, slash‑command integration, and configurable price alerts.
+Built with TypeScript, Prisma (SQLite/Postgres), Socket.IO and a REST API.
 
 ### Roombooking for Companies  
 A room and desk booking app using the T4 Stack.  
